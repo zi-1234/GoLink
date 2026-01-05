@@ -36,6 +36,8 @@ import java.util.Map;
  */
 public interface LinkAccessLogsMapper extends BaseMapper<LinkAccessLogsDO> {
 
+
+
     /**
      * 根据短链接获取指定日期内高频访问IP数据
      */
